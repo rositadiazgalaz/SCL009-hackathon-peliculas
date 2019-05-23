@@ -151,6 +151,18 @@ Como herramienta principal de organización y visualización de avance ultizamos
 
 [En este enlace encontrarás nuestro Trello](https://trello.com/b/WNR9WCfJ/hackathon-squad-7)
 
+Las FE desarrollaron lógica de funciones e implementación del DOM, en conjunto se escogieron los colores para la guía de estilos. Encargada de UX desarrolla investigación de usuario.
+
+## Futuras Iteraciones
+
+Para futuras mejoras de nuestro producto, deseamos implementar un modal por pelicula con información detallada.
+
+Desarrollar testeo de usuario con mapa de calor.
+
+
+
+
+
 
 
 
