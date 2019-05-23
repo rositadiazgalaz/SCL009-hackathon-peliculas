@@ -143,6 +143,15 @@ Presentamos un esquema general del flujo que deberia tener un usuario al recorre
 
 ![esquema de nuestro flujo de usuario](./src/img/flujodeusuario.png)
 
+# Historias de Usuario
+
+![imagen de historias de usuario](./src/img/historiasusuarios.png)
+
+## Organización de Nuestro Trabajo
+
+Como herramienta principal de organización y visualización de avance ultizamos Trello.
+
+[En este enlace encontrarás nuestro Trello](https://trello.com/b/WNR9WCfJ/hackathon-squad-7)
 
 
 
