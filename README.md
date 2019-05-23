@@ -132,8 +132,6 @@ Mobile First
 
 La version desktop del prototipado se realizo con las mejoras que se detectaron despues del primer testeo con usuarios.
 
-![version prototipo desktop]()
-
 [Ve nuestro figma](https://www.figma.com/file/ejqGH8hR1BIJ445QlBelb1Xc/EduKids?node-id=9%3A3)
 
 
