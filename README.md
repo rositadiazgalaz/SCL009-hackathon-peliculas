@@ -10,7 +10,7 @@
 
 Como equipo llegamos al acuerdo de realizar una aplicación con contenido educativo orientado a niños de 3 a 10 años. 
 
-Comenzamos realizando una investigacion de mercado analizando tanto a nuestra competencia directa como global.   
+Comenzamos realizando una investigación de mercado analizando tanto a nuestra competencia directa como global.   
 
 Dentro de nuestra competencia directa encontramos aplicaciones como:
 + netflix  
