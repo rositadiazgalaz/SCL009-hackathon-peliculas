@@ -120,7 +120,7 @@ Nuestras conclusiones después de la primera iteración de diseño fueron las si
 
 [Test de nuestro prototipo de baja fidelidad](https://www.youtube.com/watch?v=WkYLFteWyO0&feature=youtu.be)
 
-## Figma
+# Figma
 
 Mobile First
 
@@ -132,6 +132,14 @@ La version desktop del prototipado se realizo con las mejoras que se detectaron 
 
 [Ve nuestro figma](https://www.figma.com/file/ejqGH8hR1BIJ445QlBelb1Xc/EduKids?node-id=9%3A3)
 
+
+# Flujo de Usuario
+
+Presentamos un esquema general del flujo que deberia tener un usuario al recorrer nuestra aplicación
+
+![esquema de nuestro flujo de usuario](./src/img/flujodeusuario.png)
+
+# Guía de Estilos
 
 
 
