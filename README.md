@@ -1,7 +1,7 @@
-### HACKATHON SQUAD 7
+
  # EduKids
 
-## Investigacion de Usuario
+### Investigacion de Usuario
 
 # Research
 
@@ -120,6 +120,10 @@ Nuestras conclusiones después de la primera iteración de diseño fueron las si
 
 [Test de nuestro prototipo de baja fidelidad](https://www.youtube.com/watch?v=WkYLFteWyO0&feature=youtu.be)
 
+# Guía de Estilos
+
+![Guía de estilos](./src/img/guiadeestilos.png)
+
 # Figma
 
 Mobile First
@@ -139,7 +143,8 @@ Presentamos un esquema general del flujo que deberia tener un usuario al recorre
 
 ![esquema de nuestro flujo de usuario](./src/img/flujodeusuario.png)
 
-# Guía de Estilos
+
+
 
 
 
